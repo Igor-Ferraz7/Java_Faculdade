@@ -14,8 +14,16 @@ public class ex05{
 		
 		System.out.print("Digite o valor de x: ");
 		double x = ler.nextDouble();
+		double resultado;
 		
-		System.out.printf("O valor de f(x) é: %.2f", (8 / (2 - x)));
+		if (2 - x == 0){
+			resultado = 0;
+		}
+		
+		else{
+			resultado = (8 / (2 - x));
+		}
+		System.out.printf("O valor de f(x) é: %.2f", resultado);
 	}
 }
 
