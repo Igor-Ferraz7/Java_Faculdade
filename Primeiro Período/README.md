@@ -1,2 +1,6 @@
-# Java_Faculdade
-Aqui salvo os exercícios de Java que realizo e aprendo na faculdade de Engenharia de Software.
+# Primeiro Período
+Aprendizado:
+- Tipos primitivos e tipos de dados
+- Estrutura de programação em Java
+- Estrutura condicional
+- Laços de repetições
