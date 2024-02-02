@@ -1,2 +1,2 @@
 # Java_Faculdade
-Aqui salvo os exercícios de Java que realizo e aprendo na faculdade de Engenharia de Software.
+Aqui salvo os exercícios, atividades e testes avaliativos de Java que realizo e aprendo na faculdade de Engenharia de Software.
