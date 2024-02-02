@@ -10,7 +10,7 @@ número inteiro
 public class ex1 {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
-		int N = 0;
+		int N;
 		int vetor[] = new int[10];
 		
 		System.out.print("Insira o valor de N: ");

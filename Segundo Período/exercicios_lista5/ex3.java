@@ -29,7 +29,7 @@ public class ex3 {
 			for (int j = 0; j < matriz[i].length; j++) {
 				if (i == 4 && biggest_in_line < matriz[i][j]) {
 					biggest_in_line = matriz[i][j];
-					}
+				}
 				if (i == 4 && smalest_in_line > matriz[i][j]) {
 					smalest_in_line = matriz[i][j];
 				}
@@ -41,9 +41,9 @@ public class ex3 {
 					smalest_in_column = matriz[i][j];
 				}
 				
-				}
-			System.out.println("");
 			}
+			System.out.println("");
+		}
 		
 		System.out.printf("Maior valor da linha: %d\n", biggest_in_line);
 		System.out.printf("Menor valor da linha: %d\n", smalest_in_line);

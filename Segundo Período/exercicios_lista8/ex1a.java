@@ -1,0 +1,32 @@
+package exercicios_lista8;
+
+/*
+Dada a sequência de números: 3 4 9 2 5 8 2 1 7 4 6 2 9 8 5 1 6 8 0 4 11 77 34 0 -5 4 ,
+ordene-a em ordem não decrescente segundo os seguintes algoritmos, apresentando a
+sequência obtida após cada passo do algoritmo:
+a. Bubble Sort
+b. Selection Sort
+c. Insertion Sort
+ */
+
+import java.util.Arrays;
+
+public class ex1a {
+    public static void main(String[] args){
+        int[] vetor = new int[]{3, 4, 9, 2, 5, 8 ,2, 1, 7, 4, 6, 2, 9, 8, 5, 1, 6, 8, 0, 4, 11, 77, 34, 0, -5, 4};
+        int aux;
+
+        for (int i = 0; i < vetor.length - 1; i++){
+            for (int j = 0; j < vetor.length - 1; j++){
+                if (vetor[j] > vetor[j+1]){
+                    aux = vetor[j];
+                    vetor[j] = vetor[j+1];
+                    vetor[j+1] = aux;
+                }
+            }
+        }
+
+        System.out.print(Arrays.toString(vetor));
+
+    }
+}
