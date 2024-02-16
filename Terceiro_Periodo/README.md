@@ -1,1 +1,1 @@
-Atividades do Segundo Período: 08/2023 - 12/2023
+Atividades do Terceiro Período: 01/2024 - 06/2024
