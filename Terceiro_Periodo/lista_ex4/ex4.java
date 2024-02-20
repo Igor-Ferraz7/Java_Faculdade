@@ -29,12 +29,4 @@ public class ex4 {
             percorrerMatriz(matrix, line+1);
         }
     }
-
-    public static void percorrerVetor(int[] vector, int position) {
-        if (position < vector.length) {
-            System.out.printf("Indice %d: %d\n", position, vector[position]);
-            percorrerVetor(vector, position+1);
-        }
-    }
-
 }
