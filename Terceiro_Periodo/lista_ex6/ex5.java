@@ -11,7 +11,6 @@ public class ex5 {
         System.out.print("Digite o numero a ser convertido: ");
         int n = input.nextInt();
         String n_binary = num_toBinary(n, "");
-        n_binary = new StringBuilder(n_binary).reverse().toString();
 
         System.out.printf("O numero %d em binario e: %s", n, n_binary);
     }
@@ -23,6 +22,6 @@ public class ex5 {
 
             return num_toBinary(rest, binary_num);
         }
-        return binary_num;
+        return new StringBuilder(binary_num).reverse().toString();
     }
 }
