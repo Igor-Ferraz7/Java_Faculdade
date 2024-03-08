@@ -8,11 +8,11 @@ public class ex5 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.print("Digite o numero a ser convertido: ");
+        System.out.print("Digite o número a ser convertido: ");
         int n = input.nextInt();
         String n_binary = num_toBinary(n, "");
 
-        System.out.printf("O numero %d em binario e: %s", n, n_binary);
+        System.out.printf("O número %d em binário é: %s", n, n_binary);
     }
 
     public static String num_toBinary (int num, String binary_num) {
