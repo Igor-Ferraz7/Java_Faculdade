@@ -1,0 +1,9 @@
+
+    
+Meu site 
+Este site fala sobre como é bom programar em Java! 
+Python é preguiçoso 
+Java é uma linguagem fortemente tipada e compilada 
+Python é uma linguagem sem tipagem e interpretada 
+    
+
