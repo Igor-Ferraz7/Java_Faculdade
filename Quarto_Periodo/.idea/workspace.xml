@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47b2275a-976a-41b4-95dd-5625de3af128" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Quarto_Periodo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjDetalhadoSoft/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjDetalhadoSoft/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ProjDetalhadoSoft/ProcessadorDePedido.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Teste/Teste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio1/ex1/Filme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio1/ex1/TestarFilme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio1/ex2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio1/ex2/AnimalTeste.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio1/ex2/Cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio1/ex2/Peixe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio2/Aluno.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio2/Escola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio2/Materia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio2/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio2/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio2/Turma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lista_exercicio3/ex1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/provaN1/Cliente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/provaN1/File_reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/provaN1/Location.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/provaN1/Reserva_Conflito.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/provaN1/prova.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jqU2Iu3c2vEqJCc4zSaJXBlXvA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.language&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="lista_exercicio3" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.prova">
+    <configuration name="AnimalTeste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista_exercicio1.ex2.AnimalTeste" />
+      <module name="Quarto_Periodo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lista_exercicio1.ex2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="File_reader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="provaN1.File_reader" />
+      <module name="Quarto_Periodo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="provaN1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestarFilme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista_exercicio1.ex1.TestarFilme" />
+      <module name="Quarto_Periodo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lista_exercicio1.ex1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ex1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lista_exercicio3.ex1" />
+      <module name="Quarto_Periodo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lista_exercicio3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prova" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="provaN1.prova" />
+      <module name="Quarto_Periodo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="provaN1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.prova" />
+        <item itemvalue="Application.File_reader" />
+        <item itemvalue="Application.ex1" />
+        <item itemvalue="Application.AnimalTeste" />
+        <item itemvalue="Application.TestarFilme" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47b2275a-976a-41b4-95dd-5625de3af128" name="Changes" comment="" />
+      <created>1722113894348</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1722113894348</updated>
+      <workItem from="1722113895360" duration="211000" />
+      <workItem from="1722114398948" duration="781000" />
+      <workItem from="1722290353919" duration="246000" />
+      <workItem from="1722290611806" duration="4718000" />
+      <workItem from="1722470871300" duration="618000" />
+      <workItem from="1723155453330" duration="2252000" />
+      <workItem from="1723164807387" duration="5138000" />
+      <workItem from="1723680596439" duration="2725000" />
+      <workItem from="1724105908415" duration="7720000" />
+      <workItem from="1724284818604" duration="713000" />
+      <workItem from="1724460730173" duration="1960000" />
+      <workItem from="1724631013897" duration="31823000" />
+      <workItem from="1725589617043" duration="76000" />
+      <workItem from="1725617937131" duration="796000" />
+      <workItem from="1725664592063" duration="594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,0 +1,79 @@
+id;Nome;Endereco;Idade;Sexo;Preferencia de Estadia
+1;Bruno Nascimento;Rua das Flores, 397, Belo Horizonte - DF;49;Feminino;Apartamento com 2 quartos e 2 banheiros beira-mar
+2;Isabel Carvalho;Rua Verde, 868, Rio de Janeiro - PE;51;Masculino;Loft minimalista em bairro nobre
+3;Olivia Carvalho;Rua das Flores, 882, Sao Paulo - AM;59;Feminino;Chale proximo a cachoeiras e trilhas
+4;Leonardo Barros;Rua Verde, 169, Porto Alegre - AM;59;Masculino;Cabana na montanha com lareira
+5;Hugo Melo;Rua das Flores, 976, Fortaleza - DF;48;Masculino;Casa de campo com piscina e churrasqueira
+6;Ricardo Rocha;Rua Verde, 269, Porto Alegre - BA;40;Masculino;Flat moderno com academia e sauna
+7;Olivia Vieira;Rua Verde, 645, Belo Horizonte - RS;48;Feminino;Pousada rustica em vilarejo historico
+8;Diego Ribeiro;Alameda dos Anjos, 116, Belo Horizonte - RS;64;Feminino;Flat moderno com academia e sauna
+9;Eva Barros;Rua Verde, 437, Salvador - DF;60;Masculino;Loft minimalista em bairro nobre
+10;Ursula Rocha;Estrada do Mar, 685, Manaus - RJ;41;Feminino;Pousada rustica em vilarejo historico
+11;Mariana Moura;Praça da Liberdade, 932, Recife - DF;20;Feminino;Apartamento no centro da cidade com vista para o mar
+12;Bruno Santos;Praça da Liberdade, 498, Fortaleza - BA;48;Masculino;Pousada rustica em vilarejo historico
+13;Gabriela Gomes;Praça da Liberdade, 965, Sao Paulo - PE;60;Feminino;Apartamento no centro da cidade com vista para o mar
+14;Ursula Barros;Av. Rio Branco, 650, Manaus - DF;43;Feminino;Apartamento com 2 quartos e 2 banheiros beira-mar
+15;Leonardo Costa;Alameda dos Anjos, 502, Recife - MG;27;Masculino;Cabana na montanha com lareira
+16;Paulo Ribeiro;Beco das Rosas, 374, Recife - PR;23;Masculino;Resort all-inclusive com spa
+17;Mariana Martins;Estrada do Mar, 964, Salvador - CE;19;Masculino;Resort all-inclusive com spa
+18;Tiago Barros;Rua das Flores, 111, Fortaleza - PR;56;Masculino;Cabana na montanha com lareira
+19;Fabio Santos;Praça da Liberdade, 623, Porto Alegre - RJ;59;Masculino;Bangalo na Amazonia com internet
+20;Ximena Correia;Beco das Rosas, 471, Manaus - CE;37;Masculino;Bangalo na Amazonia com internet
+21;Quintina Nascimento;Praça da Liberdade, 309, Rio de Janeiro - CE;47;Feminino;Chaleproximo a cachoeiras e trilhas
+22;Wesley Silva;Av. Rio Branco, 891, Rio de Janeiro - PR;51;Masculino;Bangalo na Amazonia com internet
+23;Diego Oliveira;Estrada do Mar, 294, Fortaleza - PE;68;Masculino;Chaleproximo a cachoeiras e trilhas
+24;Leonardo Santos;Rua Verde, 360, Rio de Janeiro - DF;27;Feminino;Loft minimalista em bairro nobre
+25;Ximena Oliveira;Rua do Sol, 142, Brasilia - MG;20;Masculino;Bangalo na Amazonia com internet
+26;Hugo Lima;Praça da Liberdade, 365, Manaus - AM;70;Masculino;Apartamento no centro da cidade com vista para o mar
+27;Diego Cardoso;Av. Rio Branco, 597, Fortaleza - PE;46;Feminino;Chaleproximo a cachoeiras e trilhas
+28;Zara Correia;Travessa Bela Vista, 647, Belo Horizonte - CE;40;Feminino;Pousada rustica em vilarejo historico
+29;Olivia Moreira;Beco das Rosas, 129, Salvador - RJ;38;Feminino;Cabana na montanha com lareira
+30;Hugo Oliveira;Estrada do Mar, 838, Salvador - DF;46;Feminino;Cabana na montanha com lareira
+31;Quintina Ribeiro;Av. Paulista, 153, Recife - PR;21;Feminino;Chaleproximo a cachoeiras e trilhas
+32;Zara Oliveira;Rua Verde, 473, Porto Alegre - PE;20;Feminino;Pousada rustica em vilarejo historico
+33;Fabio Santos;Beco das Rosas, 992, Rio de Janeiro - MG;60;Masculino;Bangalo na Amazonia com internet
+34;Karen Araujo;Rua Verde, 704, Manaus - RJ;62;Feminino;Flat moderno com academia e sauna
+35;Diego Ramos;Av. Rio Branco, 843, Recife - BA;45;Feminino;Resort all-inclusive com spa
+36;Ximena Lima;Estrada do Mar, 913, Brasilia - PR;41;Masculino;Pousada rustica em vilarejo historico
+37;Ana Sousa;Rua das Flores, 982, Fortaleza - RS;18;Masculino;Apartamento com 2 quartos e 2 banheiros beira-mar
+38;Gabriela Melo;Beco das Rosas, 829, Salvador - SP;49;Masculino;Apartamento no centro da cidade com vista para o mar
+39;Nicolas Ramos;Av. Paulista, 274, Fortaleza - DF;68;Feminino;Apartamento no centro da cidade com vista para o mar
+40;Bruno Pereira;Beco das Rosas, 688, Recife - RJ;47;Feminino;Flat moderno com academia e sauna
+41;Karen Ferreira;Praça da Liberdade, 589, Belo Horizonte - CE;30;Feminino;Casa de campo com piscina e churrasqueira
+42;Leonardo Santos;Alameda dos Anjos, 727, Porto Alegre - BA;38;Feminino;Resort all-inclusive com spa
+43;Diego Gomes;Estrada do Mar, 851, Brasilia - BA;43;Feminino;Bangalo na Amazonia com internet
+44;Bruno Sousa;Praça da Liberdade, 386, Curitiba - RJ;23;Feminino;Resort all-inclusive com spa
+45;Ricardo Sousa;Rua das Flores, 523, Belo Horizonte - DF;19;Masculino;Bangalo na Amazonia com internet
+46;Hugo Moura;Beco das Rosas, 798, Salvador - MG;63;Masculino;Bangalo na Amazonia com internet
+47;Ricardo Teixeira;Praça da Liberdade, 206, Belo Horizonte - BA;70;Masculino;Resort all-inclusive com spa
+48;Karen Moreira;Rua Verde, 515, Porto Alegre - RS;22;Masculino;Apartamento com 2 quartos e 2 banheiros beira-mar
+49;Fabio Moura;Travessa Bela Vista, 961, Belo Horizonte - AM;64;Feminino;Apartamento no centro da cidade com vista para o mar
+50;Wesley Teixeira;Estrada do Mar, 665, Belo Horizonte - AM;49;Masculino;Apartamento com 2 quartos e 2 banheiros beira-mar
+51;Olivia Moreira;Rua Verde, 469, Brasilia - BA;18;Feminino;Bangalo na Amazonia com internet
+52;Jorge Santos;Rua Verde, 148, Salvador - PR;61;Masculino;Cabana na montanha com lareira
+53;Leonardo Martins;Beco das Rosas, 889, Rio de Janeiro - BA;52;Feminino;Loft minimalista em bairro nobre
+54;Tiago Pereira;Rua Verde, 419, Belo Horizonte - SP;18;Masculino;Apartamento no centro da cidade com vista para o mar
+55;Diego Almeida;Estrada do Mar, 199, Porto Alegre - RJ;51;Feminino;Flat moderno com academia e sauna
+56;Diego Costa;Travessa Bela Vista, 846, Sao Paulo - BA;60;Feminino;Chaleproximo a cachoeiras e trilhas
+57;Zara Ribeiro;Beco das Rosas, 940, Fortaleza - RJ;58;Feminino;Chaleproximo a cachoeiras e trilhas
+58;Victor Lima;Rua das Flores, 250, Rio de Janeiro - MG;49;Feminino;Cabana na montanha com lareira
+59;Ricardo Moura;Rua Verde, 751, Salvador - MG;40;Masculino;Apartamento no centro da cidade com vista para o mar
+60;Ximena Ribeiro;Av. Rio Branco, 525, Fortaleza - SP;23;Feminino;Flat moderno com academia e sauna
+61;Jorge Cardoso;Av. Rio Branco, 899, Sao Paulo - PE;51;Masculino;Cabana na montanha com lareira
+62;Ximena Nascimento;Rua das Flores, 419, Fortaleza - AM;26;Masculino;Cabana na montanha com lareira
+63;Carla Pereira;Beco das Rosas, 296, Fortaleza - AM;50;Feminino;Apartamento no centro da cidade com vista para o mar
+64;Zara Nascimento;Rua do Sol, 101, Belo Horizonte - CE;33;Feminino;Bangalo na Amazonia com internet
+65;Fabio Sousa;Rua das Flores, 802, Manaus - MG;25;Masculino;Flat moderno com academia e sauna
+66;Mariana Gomes;Estrada do Mar, 906, Recife - RS;52;Feminino;Loft minimalista em bairro nobre
+67;Olivia Moura;Rua do Sol, 745, Porto Alegre - PE;32;Masculino;Loft minimalista em bairro nobre
+68;Wesley Ramos;Travessa Bela Vista, 876, Sao Paulo - SP;32;Feminino;Apartamento com 2 quartos e 2 banheiros beira-mar
+69;Sofia Martins;Alameda dos Anjos, 997, Porto Alegre - CE;62;Masculino;Apartamento no centro da cidade com vista para o mar
+70;Gabriela Correia;Praça da Liberdade, 573, Fortaleza - AM;27;Masculino;Casa de campo com piscina e churrasqueira
+71;Nicolas Rocha;Travessa Bela Vista, 331, Rio de Janeiro - AM;37;Feminino;Cabana na montanha com lareira
+72;Paulo Teixeira;Beco das Rosas, 910, Recife - BA;40;Masculino;Bangalo na Amazonia com internet
+73;Yuri Gomes;Travessa Bela Vista, 531, Curitiba - PE;62;Masculino;Loft minimalista em bairro nobre
+74;Eva Costa;Av. Rio Branco, 748, Porto Alegre - PR;46;Feminino;Chaleproximo a cachoeiras e trilhas
+75;Diego Ribeiro;Alameda dos Anjos, 531, Sao Paulo - PE;55;Masculino;Apartamento com 2 quartos e 2 banheiros beira-mar
+76;Wesley Pereira;Travessa Bela Vista, 383, Rio de Janeiro - AM;60;Feminino;Flat moderno com academia e sauna
+77;Diego Ferreira;Alameda dos Anjos, 545, Recife - RS;35;Masculino;Pousada rustica em vilarejo historico
+78;Ximena Carvalho;Rua Verde, 777, Sao Paulo - PE;69;Feminino;Bangalo na Amazonia com internet

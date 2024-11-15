@@ -1,0 +1,151 @@
+Id,Tipo do Local,Pontos de Referencia,Quantidade de Quartos,Quantidade de Banheiros,Bairro,Rua,Quadra,Lote,Número,Quantidade Máxima de Hóspedes,Quantidade de Camas,Quantidade de Recomendações
+1,Chalé,Shopping,4,3,Moinhos de Vento,Av. Brasil,7,14,705,6,6,4
+2,Chalé,Praia,2,2,Batel,Praça Verde,7,8,894,2,2,4
+3,Bangalô,Parque,4,3,Pelourinho,Av. Brasil,10,2,79,6,1,4
+4,Apartamento,Museu,3,1,Asa Sul,Av. Brasil,5,1,438,9,6,4
+5,Chalé,Shopping,3,2,Meireles,Beco do Sossego,3,7,595,6,3,4
+6,Casa,Montanha,5,3,Moinhos de Vento,Travessa do Sol,10,10,180,10,1,5
+7,Apartamento,Estação de metrô,3,3,Jardim Paulista,Travessa do Sol,2,20,369,8,7,1
+8,Chalé,Montanha,3,2,Jardim Paulista,Travessa do Sol,4,1,744,4,1,4
+9,Casa,Museu,3,2,Boa Viagem,Av. Brasil,3,11,198,5,2,4
+10,Apartamento,Estádio,4,3,Copacabana,Rua das Palmeiras,5,14,603,6,5,3
+11,Apartamento,Montanha,2,3,Jardim Paulista,Travessa do Sol,2,4,693,6,4,5
+12,Bangalô,Estádio,3,3,Pelourinho,Av. Central,7,15,443,10,1,2
+13,Casa,Centro da cidade,4,2,Ponta Negra,Rua das Palmeiras,8,18,744,4,2,3
+14,Casa,Parque,2,2,Jardim Paulista,Praça Verde,7,11,329,5,3,1
+15,Casa,Restaurante famoso,1,2,Meireles,Travessa do Sol,1,14,134,5,4,1
+16,Apartamento,Montanha,4,1,Moinhos de Vento,Travessa do Sol,5,5,841,10,7,3
+17,Chalé,Centro da cidade,3,3,Moinhos de Vento,Av. Central,3,12,823,4,4,4
+18,Casa,Igreja histórica,3,3,Savassi,Alameda dos Pinheiros,4,6,961,10,9,3
+19,Chalé,Museu,5,3,Moinhos de Vento,Rua do Lago,10,3,468,7,6,5
+20,Bangalô,Shopping,5,1,Copacabana,Av. Brasil,4,3,361,5,1,3
+21,Apartamento,Igreja histórica,4,3,Boa Viagem,Rua das Palmeiras,3,17,744,10,3,5
+22,Casa,Montanha,2,3,Savassi,Av. Central,8,4,711,6,1,1
+23,Chalé,Centro da cidade,2,1,Asa Sul,Av. Central,3,11,528,5,3,5
+24,Bangalô,Teatro,3,1,Copacabana,Rua do Arvoredo,5,2,541,2,2,5
+25,Apartamento,Igreja histórica,4,2,Asa Sul,Av. Central,1,2,497,5,4,5
+26,Apartamento,Restaurante famoso,5,3,Pelourinho,Praça Verde,4,12,665,9,9,2
+27,Bangalô,Shopping,2,2,Asa Sul,Estrada Velha,3,12,283,9,3,5
+28,Apartamento,Parque,3,1,Pelourinho,Av. Brasil,7,9,607,3,2,4
+29,Casa,Igreja histórica,1,2,Meireles,Estrada Velha,4,20,682,3,2,5
+30,Chalé,Igreja histórica,3,2,Savassi,Rua do Arvoredo,10,16,895,7,3,5
+31,Bangalô,Montanha,1,2,Boa Viagem,Av. Brasil,5,12,226,10,3,3
+32,Bangalô,Centro da cidade,1,2,Savassi,Alameda dos Pinheiros,2,11,266,3,3,4
+33,Chalé,Cachoeira,3,2,Copacabana,Alameda dos Pinheiros,2,19,886,6,4,5
+34,Bangalô,Parque,2,2,Boa Viagem,Beco do Sossego,5,7,348,5,3,1
+35,Bangalô,Shopping,1,2,Copacabana,Praça Verde,3,13,486,4,2,4
+36,Chalé,Teatro,3,2,Jardim Paulista,Av. Brasil,5,7,604,9,5,1
+37,Bangalô,Centro da cidade,4,1,Jardim Paulista,Av. Brasil,8,12,297,9,1,3
+38,Bangalô,Parque,5,3,Meireles,Alameda dos Pinheiros,10,19,758,9,6,5
+39,Bangalô,Museu,5,3,Meireles,Rua das Palmeiras,2,5,280,8,7,3
+40,Casa,Praia,2,3,Meireles,Rua das Palmeiras,8,3,825,9,9,3
+41,Apartamento,Parque,4,3,Jardim Paulista,Av. Central,6,13,675,8,7,4
+42,Bangalô,Museu,3,2,Asa Sul,Av. Brasil,1,2,839,6,5,5
+43,Bangalô,Praia,3,1,Jardim Paulista,Estrada Velha,10,1,868,3,2,2
+44,Apartamento,Centro da cidade,3,1,Jardim Paulista,Av. Brasil,9,17,81,4,4,5
+45,Chalé,Parque,1,1,Copacabana,Rua das Palmeiras,8,3,752,7,3,5
+46,Bangalô,Igreja histórica,2,1,Copacabana,Beco do Sossego,7,6,393,3,2,4
+47,Casa,Montanha,2,1,Batel,Av. Central,9,1,394,7,4,1
+48,Chalé,Museu,2,2,Jardim Paulista,Rua do Arvoredo,2,10,809,2,2,3
+49,Apartamento,Restaurante famoso,5,2,Boa Viagem,Rua do Lago,3,8,484,7,3,3
+50,Apartamento,Museu,5,2,Moinhos de Vento,Estrada Velha,10,9,96,7,1,4
+51,Bangalô,Montanha,5,1,Batel,Travessa do Sol,3,16,810,7,3,3
+52,Chalé,Praia,1,1,Pelourinho,Rua do Lago,9,11,913,3,2,3
+53,Casa,Museu,4,3,Savassi,Beco do Sossego,4,16,853,6,6,2
+54,Apartamento,Estação de metrô,1,3,Meireles,Travessa do Sol,1,18,376,10,5,4
+55,Casa,Praia,1,2,Ponta Negra,Beco do Sossego,5,2,556,4,4,1
+56,Bangalô,Cachoeira,1,3,Boa Viagem,Av. Brasil,2,9,655,9,5,5
+57,Bangalô,Estádio,4,2,Asa Sul,Av. Central,6,6,259,10,8,5
+58,Bangalô,Praia,2,3,Meireles,Av. Brasil,10,17,708,8,4,3
+59,Apartamento,Parque,2,3,Savassi,Estrada Velha,6,6,132,3,1,1
+60,Bangalô,Praia,3,2,Ponta Negra,Rua do Arvoredo,4,13,262,8,4,4
+61,Apartamento,Mercado,3,3,Ponta Negra,Travessa do Sol,4,5,998,7,5,5
+62,Apartamento,Montanha,3,3,Copacabana,Av. Central,10,14,648,6,3,4
+63,Casa,Estação de metrô,3,2,Moinhos de Vento,Rua das Palmeiras,2,3,776,7,7,1
+64,Chalé,Restaurante famoso,3,1,Savassi,Travessa do Sol,9,8,529,9,4,3
+65,Bangalô,Montanha,2,1,Moinhos de Vento,Beco do Sossego,8,20,893,9,2,1
+66,Bangalô,Estádio,1,1,Copacabana,Travessa do Sol,3,10,296,8,1,3
+67,Apartamento,Cachoeira,3,2,Batel,Av. Brasil,4,12,493,9,7,3
+68,Chalé,Estação de metrô,1,3,Jardim Paulista,Beco do Sossego,10,8,252,3,3,2
+69,Casa,Parque,1,3,Savassi,Rua das Palmeiras,1,16,168,6,2,2
+70,Chalé,Estação de metrô,1,2,Boa Viagem,Rua das Palmeiras,8,1,726,7,7,2
+71,Chalé,Montanha,4,2,Batel,Av. Brasil,1,5,446,3,3,1
+72,Chalé,Teatro,3,2,Pelourinho,Rua do Lago,9,8,293,5,5,5
+73,Apartamento,Montanha,5,2,Ponta Negra,Estrada Velha,3,15,546,10,9,4
+74,Bangalô,Estádio,4,3,Moinhos de Vento,Rua do Arvoredo,4,14,555,3,3,1
+75,Casa,Cachoeira,5,1,Copacabana,Alameda dos Pinheiros,2,19,447,6,1,5
+76,Casa,Parque,3,1,Boa Viagem,Praça Verde,10,5,146,5,5,2
+77,Apartamento,Montanha,3,1,Copacabana,Praça Verde,5,14,161,8,7,3
+78,Apartamento,Cachoeira,3,1,Ponta Negra,Travessa do Sol,10,19,882,10,5,1
+79,Chalé,Estação de metrô,2,3,Savassi,Estrada Velha,1,15,265,3,2,5
+80,Casa,Museu,5,3,Batel,Rua do Arvoredo,8,15,329,4,4,4
+81,Apartamento,Igreja histórica,2,3,Moinhos de Vento,Praça Verde,4,19,694,9,6,3
+82,Apartamento,Shopping,1,1,Savassi,Rua do Arvoredo,2,18,425,8,8,1
+83,Bangalô,Mercado,5,1,Asa Sul,Praça Verde,10,16,683,10,7,3
+84,Chalé,Teatro,2,3,Savassi,Av. Central,2,15,45,6,6,4
+85,Chalé,Teatro,2,3,Asa Sul,Estrada Velha,9,18,194,10,3,4
+86,Bangalô,Shopping,5,1,Jardim Paulista,Av. Central,1,17,228,4,4,5
+87,Apartamento,Montanha,4,3,Boa Viagem,Rua do Arvoredo,9,18,374,2,2,3
+88,Chalé,Praia,5,3,Pelourinho,Praça Verde,5,20,561,10,2,5
+89,Chalé,Montanha,3,2,Jardim Paulista,Estrada Velha,9,6,865,3,2,3
+90,Bangalô,Igreja histórica,1,2,Ponta Negra,Rua do Lago,7,16,352,5,5,5
+91,Casa,Restaurante famoso,3,2,Copacabana,Rua do Lago,9,11,445,4,4,3
+92,Chalé,Parque,5,2,Batel,Rua do Arvoredo,9,10,782,6,3,1
+93,Apartamento,Restaurante famoso,5,1,Moinhos de Vento,Praça Verde,9,13,924,8,4,3
+94,Chalé,Shopping,1,2,Jardim Paulista,Av. Brasil,5,8,717,9,6,5
+95,Casa,Igreja histórica,3,3,Meireles,Alameda dos Pinheiros,1,1,726,2,1,4
+96,Chalé,Centro da cidade,3,3,Boa Viagem,Av. Brasil,7,8,686,2,1,5
+97,Bangalô,Centro da cidade,3,1,Meireles,Beco do Sossego,9,14,228,6,5,1
+98,Casa,Estação de metrô,2,2,Jardim Paulista,Estrada Velha,5,17,119,9,4,1
+99,Bangalô,Mercado,1,3,Jardim Paulista,Rua do Arvoredo,6,6,497,3,2,4
+100,Apartamento,Mercado,5,1,Ponta Negra,Rua das Palmeiras,3,3,795,9,4,4
+101,Chalé,Praia,4,3,Pelourinho,Travessa do Sol,9,14,850,6,5,3
+102,Bangalô,Restaurante famoso,1,2,Savassi,Av. Brasil,6,17,369,5,3,2
+103,Chalé,Mercado,5,3,Meireles,Praça Verde,7,8,195,9,2,4
+104,Casa,Centro da cidade,1,2,Meireles,Rua do Arvoredo,3,18,169,3,3,1
+105,Casa,Montanha,5,2,Batel,Travessa do Sol,10,11,547,2,2,5
+106,Chalé,Cachoeira,1,2,Moinhos de Vento,Rua das Palmeiras,7,15,156,6,2,3
+107,Apartamento,Centro da cidade,2,2,Asa Sul,Beco do Sossego,10,3,265,5,3,1
+108,Casa,Igreja histórica,1,1,Batel,Av. Central,1,4,190,4,2,2
+109,Apartamento,Estádio,2,2,Meireles,Rua do Lago,1,11,543,5,2,2
+110,Bangalô,Museu,4,2,Asa Sul,Estrada Velha,9,15,701,9,8,1
+111,Apartamento,Teatro,5,1,Batel,Praça Verde,10,1,907,2,2,4
+112,Casa,Centro da cidade,2,3,Ponta Negra,Rua do Lago,9,1,94,8,8,2
+113,Casa,Mercado,4,3,Copacabana,Praça Verde,3,1,883,5,1,1
+114,Apartamento,Igreja histórica,4,3,Meireles,Beco do Sossego,1,9,454,9,5,3
+115,Apartamento,Estação de metrô,4,1,Ponta Negra,Beco do Sossego,1,8,643,5,5,1
+116,Bangalô,Mercado,5,2,Ponta Negra,Praça Verde,3,2,404,5,4,3
+117,Casa,Montanha,2,3,Ponta Negra,Alameda dos Pinheiros,4,16,684,7,5,2
+118,Bangalô,Igreja histórica,4,2,Meireles,Av. Brasil,10,20,457,9,9,5
+119,Apartamento,Praia,5,2,Savassi,Rua das Palmeiras,5,15,177,6,3,4
+120,Casa,Cachoeira,5,3,Meireles,Beco do Sossego,3,16,262,10,8,4
+121,Bangalô,Praia,2,2,Moinhos de Vento,Av. Central,9,3,840,7,1,3
+122,Chalé,Estádio,5,2,Pelourinho,Alameda dos Pinheiros,6,17,568,4,4,1
+123,Casa,Centro da cidade,5,2,Boa Viagem,Estrada Velha,8,1,321,10,4,3
+124,Chalé,Estádio,2,3,Ponta Negra,Av. Central,9,16,817,4,3,1
+125,Casa,Parque,5,3,Moinhos de Vento,Alameda dos Pinheiros,4,8,777,7,4,4
+126,Apartamento,Teatro,2,1,Pelourinho,Beco do Sossego,5,3,17,8,4,1
+127,Apartamento,Mercado,2,1,Ponta Negra,Av. Brasil,6,14,305,10,9,5
+128,Apartamento,Shopping,4,2,Meireles,Praça Verde,8,1,575,4,2,5
+129,Casa,Museu,1,3,Moinhos de Vento,Rua do Lago,3,13,907,4,2,3
+130,Bangalô,Estação de metrô,2,2,Meireles,Rua das Palmeiras,6,10,763,4,3,3
+131,Casa,Centro da cidade,3,1,Jardim Paulista,Rua do Lago,8,15,332,5,2,4
+132,Chalé,Estação de metrô,1,2,Ponta Negra,Rua do Lago,2,7,692,8,8,2
+133,Casa,Praia,3,1,Savassi,Av. Brasil,7,2,59,5,1,3
+134,Chalé,Museu,5,2,Boa Viagem,Rua das Palmeiras,1,15,675,8,4,3
+135,Bangalô,Centro da cidade,3,1,Moinhos de Vento,Rua das Palmeiras,3,9,835,3,3,4
+136,Chalé,Estádio,4,3,Boa Viagem,Alameda dos Pinheiros,9,20,601,6,4,2
+137,Casa,Estádio,5,3,Pelourinho,Av. Central,5,20,86,2,2,3
+138,Chalé,Shopping,1,3,Pelourinho,Rua do Lago,7,11,69,5,2,1
+139,Casa,Montanha,3,1,Moinhos de Vento,Estrada Velha,8,11,230,3,3,5
+140,Bangalô,Shopping,1,2,Ponta Negra,Estrada Velha,2,5,43,2,1,2
+141,Casa,Cachoeira,1,3,Boa Viagem,Estrada Velha,5,16,975,9,7,4
+142,Bangalô,Museu,2,1,Batel,Av. Central,6,12,361,6,6,3
+143,Casa,Museu,3,3,Batel,Av. Brasil,6,10,377,2,1,5
+144,Casa,Restaurante famoso,5,2,Batel,Praça Verde,2,2,615,5,5,5
+145,Chalé,Igreja histórica,5,3,Jardim Paulista,Av. Brasil,1,6,55,3,3,2
+146,Chalé,Estádio,2,2,Copacabana,Beco do Sossego,10,1,526,10,3,2
+147,Apartamento,Praia,3,1,Ponta Negra,Beco do Sossego,10,1,887,7,7,5
+148,Chalé,Cachoeira,3,1,Pelourinho,Av. Central,7,19,827,5,3,4
+149,Chalé,Centro da cidade,5,2,Ponta Negra,Rua das Palmeiras,3,5,968,10,5,4
+150,Bangalô,Restaurante famoso,5,3,Boa Viagem,Estrada Velha,3,19,354,3,1,1
